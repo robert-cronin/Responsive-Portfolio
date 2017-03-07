@@ -1,0 +1,52 @@
+@media only screen and (min-width: 800px){
+	.container-fluid{
+		max-width: 800px;
+		margin-right: auto;
+		margin-left: auto;
+	}
+}
+
+@media only screen and (max-width: 993px){
+	.appify{
+		width: 50%;
+		float: left;
+	}
+
+	.sunflower{
+		width: 50%;
+		float: right;
+	}
+
+	.bokeh{
+		width: 50%;
+		float: left;
+	}
+}
+
+@media only screen and (max-width: 750px){
+	.appify{
+		min-width: 50%;
+	}
+
+	.sunflower{
+		min-width: 50%;
+	}
+
+	.bokeh{
+		min-width: 50%;
+	}
+}
+
+@media only screen and (max-width: 450px){
+	.appify{
+		min-width: 100%;
+	}
+
+	.sunflower{
+		min-width: 100%;
+	}
+
+	.bokeh{
+		min-width: 100%;
+	}
+}
