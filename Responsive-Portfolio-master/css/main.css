@@ -1,0 +1,83 @@
+/** {
+	border: 0.5px solid red !important;
+}*/
+
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+	font-family: "Lato", sans-serif;
+}
+
+.mainimage {
+	max-width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.project {
+	max-width: 95%;
+	margin-left: auto;
+	margin-right: auto;
+	height: 180px;
+}
+
+.logopic {
+	max-width: 100px;
+}
+
+.righttext {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 2px;
+	margin-top: 2px;
+	float: right;
+}
+
+.centertext {
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 2px;
+	margin-top: 2px;
+	text-align: center;
+}
+
+.logo {
+	max-width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	float: left;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.header-text {
+	max-width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	float: right;
+}
+
+footer {
+	text-align: center;
+}
+
+hr {
+	color: blue;
+}
+
+h3 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	font-weight: 200;
+}
+
+h4 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	font-weight: 300;
+}
